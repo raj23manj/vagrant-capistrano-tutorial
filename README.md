@@ -80,6 +80,8 @@ find ip for vagrant
 
 http://stackoverflow.com/questions/14870900/how-to-find-vagrant-ip
 
+http://stackoverflow.com/questions/10353530/is-there-a-way-to-deploy-into-a-vagrant-vm-using-capistrano
+
 
 use rbenv-installer
 
@@ -89,6 +91,15 @@ time 7:30
 
 to reload 
 source ~/bash_profile
+
+
+
+
+
+
+
+
+https://github.com/mitchellh/vagrant/wiki/Available-Vagrant-Plugins
 
 
 
