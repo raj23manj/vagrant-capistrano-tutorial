@@ -42,5 +42,53 @@ in the /etc/hosts change line
 and restart server
 
 
+without binding for port forwarding
+
+rails s -b 0.0.0.0
+# run from guest, from VM instance
+
+
+
 complete documentation:
 https://www.vagrantup.com/docs/networking/private_network.html
+
+
+
+Deploying to VPS:
+6:49 time for new user "deployer" in 335
+
+steps:
+
+sudo adduser deployer --ingroup admin
+#add password, fill detials if needed
+#change to that user
+su deployer
+
+
+rails casts
+335, 133, 337
+
+
+
+deploying to vagrant-capistrano
+
+https://dzone.com/articles/capistrano-deploying-vagrant
+
+
+
+find ip for vagrant
+
+http://stackoverflow.com/questions/14870900/how-to-find-vagrant-ip
+
+
+use rbenv-installer
+
+see 335 for details
+
+time 7:30
+
+to reload 
+source ~/bash_profile
+
+
+
