@@ -1,5 +1,9 @@
 vagrant setup
 
+this is the "local machine as server" in case to redo git hash
+
+45be145aa118bae5c5af91c27883fec050511c6e
+
 follow here to setup 
 
 https://github.com/mitchellh/vagrant
@@ -64,7 +68,8 @@ sudo adduser deployer --ingroup admin
 #change to that user
 su deployer
 
-
+capistrano 
+revised & pro aswell
 rails casts
 335, 133, 337
 

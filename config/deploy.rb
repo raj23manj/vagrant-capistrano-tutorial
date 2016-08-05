@@ -49,8 +49,8 @@ namespace :deploy do
   # end
 
   on roles :all do
-	puts "hello rajesh"
-	run "echo 'Hello World' > ~/hello"
+  	puts "hello rajesh"
+  	run "echo 'Hello World' > ~/hello"
   end
 
 end
